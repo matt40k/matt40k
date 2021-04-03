@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Business Intelligence Developer based in UK.
 <!--
 **matt40k/matt40k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
